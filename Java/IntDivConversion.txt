@@ -1,0 +1,11 @@
+public class IntDivConversion {
+	
+	public static void main(String args[]) {
+	
+	int firstNumber = 20;
+	int secondNumber = 9;
+	
+	
+	
+	}
+}
