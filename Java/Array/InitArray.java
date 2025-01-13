@@ -1,7 +1,14 @@
+import java.util.Scanner;
+
 public class InitArray {
 	public static void main(String[] args) {
 	
-	int[] array = {32, 40, 50, 60, 70, 120, 22};
+	int[] array = new ;
+	
+	Scanner input = new Scanner(System.in);
+	
+	System.out.println("Input");
+	int number = input.nextInt();
 	
 	System.out.printf("%5s%8s%n", "Index", "Value");
 	
