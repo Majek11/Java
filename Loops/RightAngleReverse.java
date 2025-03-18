@@ -1,10 +1,9 @@
 public class RightAngleReverse {
   public static void main(String[] args) {
   
-   int num = 6;
+   int num = 10;
   
   for ( int row = 1; row <= num; row++ ) {
-    //System.out.print("*");
     for ( int space = 1; space <= row; space++ ) {
       System.out.print(" ");
     }

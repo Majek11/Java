@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/* import java.util.Scanner;
 
 public class ToDoList {
     private String[][] tasks;
@@ -156,4 +156,4 @@ public class ToDoList {
         ToDoList todo = new ToDoList();
         todo.run();
     }
-}
+} */
